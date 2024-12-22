@@ -13,3 +13,17 @@
 
 **Dashboard Overview:**
 ![TalentRecruitProject](TalentRecruitProject.png)
+
+
+# Project 2
+
+**Title:** [Amazon Sales Report]() 
+
+**Tools Used:**
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
+[]()
