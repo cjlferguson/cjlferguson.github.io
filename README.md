@@ -19,7 +19,7 @@
 
 **Title:** [Amazon Sales Report](https://github.com/cjlferguson/cjlferguson.github.io/blob/main/AmazonSalesReport.xlsx) 
 
-**Tools Used:**
+**Tools Used:** Microsoft Excel (Conditional Formatting, Pivot Tables, Pivot Charts, Filters, Excel Maps, Sort, Slicers)
 
 **Project Description:**
 
