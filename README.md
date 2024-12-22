@@ -17,7 +17,7 @@
 
 # Project 2
 
-**Title:** [Amazon Sales Report]() 
+**Title:** [Amazon Sales Report](https://github.com/cjlferguson/cjlferguson.github.io/blob/main/AmazonSalesReport.xlsx) 
 
 **Tools Used:**
 
@@ -26,4 +26,4 @@
 **Key findings:**
 
 **Dashboard Overview:**
-[]()
+![AmazonSalesReport](AmazonSalesReport.png)
