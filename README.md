@@ -27,3 +27,20 @@
 
 **Dashboard Overview:**
 ![AmazonSalesReport](AmazonSalesReport.png)
+
+
+# Project 3
+
+**Title:** [Vindra's Sales Report](https://github.com/cjlferguson/cjlferguson.github.io/blob/main/VindrasSalesReport.xlsx)
+
+**Tools Used:** Microsoft Excel (Conditional Formatting, Pivot Tables, Pivot Charts, Filters, Excel Maps, Sort, Slicers)
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
+![VindrasSalesReport](VindrasSalesReport.png)
+
+
+Dashboard Overview:
