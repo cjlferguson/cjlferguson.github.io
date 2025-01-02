@@ -9,14 +9,18 @@
 The study focusses on three geographical areas of recruitment resource: North America, Europe, and Asia. The data set holds over seven thousand (7000) rows of data with information spread over three tables. 
 The recruitment process has seven (7) active phases: Application Review, Phone Screening, Interview #1, Waitlist, Next Steps, Final Interview, Diligence. These phases are separated and analyzed through various Excel tools and curated via a Dashboard.
 The dashboard includes the following:
-1.	Global Talent Count Per Month. Visual representation of count number of applicants during each phase of the recruitment process.
-2.	Recruiters by Region. Demonstrates the performance by numbers of recruiters for each region they are responsible for.
-3.	Talent Count by Region. Highlights by numbers within the recruitment process the talent resource each region provides. 
-4.	Recruiter Performance by Month. Provides the top 11 recruiters presenting their recruitment performance by percentage. 
+1.	_Global Talent Count Per Month_. Visual representation of count number of applicants during each phase of the recruitment process.
+2.	_Recruiters by Region_. Demonstrates the performance by numbers of recruiters for each region they are responsible for.
+3.	_Talent Count by Region_. Highlights by numbers within the recruitment process the talent resource each region provides. 
+4.	_Recruiter Performance by Month_. Provides the top 11 recruiters presenting their recruitment performance by percentage. 
+
 Additionally, the dashboard includes several slicers for:
-Month. To filter data for a specific month.
-Region. Focus on regional areas regarding their place as a global talent resource for recruitment purposes.
-Stage Name. To drill down into the performance of recruiters across regions and the performance of talent recruitment within each phase of the recruitment process.
+
+_Month_. To filter data for a specific month.
+
+_Region_. Focus on regional areas regarding their place as a global talent resource for recruitment purposes.
+
+_Stage Name_. To drill down into the performance of recruiters across regions and the performance of talent recruitment within each phase of the recruitment process.
 
 
 
@@ -98,10 +102,14 @@ The dashboard includes the following:
 6.	Shipping Service: Expedited vs Standard. A pie chart providing a visual regarding  which shipping service is preferred by customers of combined merchants of India vs Amazon India  customers. 
 7.	Market Dominance: Amazon Vs Merchants. A pie chart visual regarding market dominance by revenue of Amazon India vs other merchants.
 8.	Strongest Market By Revenue. A vertical bar chart indicating the state which contributes the largest revenue by sales to Amazon India. This provides a compliment to the ‘Percent Revenue by State’ map in (4.).
+
 Additionally, the dashboard includes several slicers for:
-Month. The data covers only three months. It is therefore reasonable and creates ease to filter data by a specific month.
-Category. Category stands for Category of Products. It is imperative to analyze the data through the perspective of products and its sales impact over time.
-Status. Status stands for status on the product. This regards whether it has been delivered, shipped, pending, etc. 
+
+_Month_. The data covers only three months. It is therefore reasonable and creates ease to filter data by a specific month.
+
+_Category_. Category stands for Category of Products. It is imperative to analyze the data through the perspective of products and its sales impact over time.
+
+_Status_. Status stands for status on the product. This regards whether it has been delivered, shipped, pending, etc. 
 
 **Key findings:**
 
