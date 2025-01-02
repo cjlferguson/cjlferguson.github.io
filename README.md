@@ -86,7 +86,22 @@ Talent Recruitment Process: Application to 1st Interview to Recruitment
 
 **Tools Used:** Microsoft Excel (Conditional Formatting, Pivot Tables, Pivot Charts, Filters, Excel Maps, Sort, Slicers)
 
-**Project Description:**
+**Project Description:** The report analyses key sales trends on the Amazon platform, India, for the months March, April, and May for the year 2022. 
+The data set contains 24 columns and 65,536 rows. 
+The data was analyzed through various Excel tools and curated via a Dashboard.
+The dashboard includes the following:
+1.	Revenue by Category Over Time. A line graph providing a comparative perspective of the contribution each category of products made to revenue relative to one another, over time.
+2.	Status Over Time. A line graph providing a visual of the trends of delivery status over time. This includes Cancellations, Deliveries, and Shippings.
+3.	Revenue. A line graph providing perspective on revenue trend over time.
+4.	Percent Revenue By State. A map visual providing perspective of revenue each state contributes by sale relative to the other. The state is colour graded with darker colours indicating greater revenue vs lighter colours indicating smaller revenue earned.
+5.	Product: Revenue and Quantity. A circular bar chart providing a comparative view of the number of products sold relative to the revenue earned through its sale.
+6.	Shipping Service: Expedited vs Standard. A pie chart providing a visual regarding  which shipping service is preferred by customers of combined merchants of India vs Amazon India  customers. 
+7.	Market Dominance: Amazon Vs Merchants. A pie chart visual regarding market dominance by revenue of Amazon India vs other merchants.
+8.	Strongest Market By Revenue. A vertical bar chart indicating the state which contributes the largest revenue by sales to Amazon India. This provides a compliment to the ‘Percent Revenue by State’ map in (4.).
+Additionally, the dashboard includes several slicers for:
+Month. The data covers only three months. It is therefore reasonable and creates ease to filter data by a specific month.
+Category. Category stands for Category of Products. It is imperative to analyze the data through the perspective of products and its sales impact over time.
+Status. Status stands for status on the product. This regards whether it has been delivered, shipped, pending, etc. 
 
 **Key findings:**
 
