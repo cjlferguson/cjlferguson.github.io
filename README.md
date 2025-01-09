@@ -86,7 +86,7 @@ Talent Recruitment Process: Application to 1st Interview to Recruitment
 
 # Project 2
 
-**Title:** [Amazon Sales Report](https://github.com/cjlferguson/cjlferguson.github.io/blob/main/AmazonSalesReport.xlsx) 
+**Title:** [Amazon Sales Report India](https://github.com/cjlferguson/cjlferguson.github.io/blob/main/AmazonSalesReport.xlsx) 
 
 **Tools Used:** Microsoft Excel (Conditional Formatting, Pivot Tables, Pivot Charts, Filters, Excel Maps, Sort, Slicers)
 
@@ -112,6 +112,40 @@ _Category_. Category stands for Category of Products. It is imperative to analyz
 _Status_. Status stands for status on the product. This regards whether it has been delivered, shipped, pending, etc. 
 
 **Key findings:**
+
+1.	The entire market given through products is dominated by Amazon, 72%, of market share and Merchants, 28%.
+2.	The daily average excluding May 18 was ₹440558. On May 18, a contraction in sales by -26%. This means that every ₹1 made on Sets for May 18 led was 1.74 times less than daily average revenue. It was also observed that for every ₹1 earned, a loss of ₹2.82 occurred relative to the daily average revenue earned through sales of Sets.
+3.	Shipped (Only) under Status also showed the greatest contraction for May 18 among all Status by 72%. Daily revenue by Shipping (Only) Status was ₹ 575026.70. A loss of ₹415291.70 was made that day with earnings of only ₹159735. This means that for every ₹1 earned, a loss of ₹2.60 relative to the average daily revenue through Shipping (only) was made.
+4.	Out of all 61240 customers the top 5000 customers contributed 21% of the revenues earned. Any reduction in spending by these customers would cause a significant contraction in revenue as seen on May 18 leading to the recorded loss on that day.
+
+
+**Drill Down:**
+
+Revenue
+
+1.	On May 18-19, 2022 India Amazon and Merchant platforms observed a significant contraction in revenues which saw a loss of 68% in total revenue. The maximum revenue for that period was ₹1076427.
+2.	Sets were the greatest selling product with a revenue of ₹19499857 at the end of the period and contributing 51% of the entire revenue derived by the sale of products. The contraction of sales by a percentage difference from May 17 to May 18 by -2% led to significant loss in revenues. 
+3.	The daily average excluding May 18 was ₹440558. On May 18, a contraction in sales by -26%. This means that every ₹1 made on Sets for May 18 led was 1.74 times less than daily average revenue. It was also observed that for every ₹1 earned, a loss of ₹2.82 occurred relative to the daily average revenue earned through sales of Sets.
+4.	Shipped (Only) under Status also showed the greatest contraction for May 18 among all Status by 72%. Daily revenue by Shipping (Only) Status was ₹ 575026.70. A loss of ₹415291.70 was made that day with earnings of only ₹159735. This means that for every ₹1 earned, a loss of ₹2.60 relative to the average daily revenue secured through Shipping (Only) was made.
+5.	It was found that for a normal day the average revenue as a result of shipping was 3.6 times higher than that earned on May 18. 
+6.	Out of all 61240 customers, the top 5000 customers contributed 21% of the revenues earned. Any reduction in spending by these customers would cause a significant contraction in revenue on May 18 leading to the recorded loss on that day.
+
+Markets and Revenue
+
+1.	The entire market given through products is dominated by Amazon and Merchants. There are 8 products that enable market analysis of the two entities. Amazon retains 72% of market share and Merchants, 28%.
+2.	There are 47 states that provide the total market value for Amazon and Non Amazon sellers, or Merchants.
+3.	The top 5 markets by state from greatest to least are Maharashtra (Amazon 73%; Merchants 27%), Karnataka (Amazon 76%; Merchants 24%), Uttar Pradesh (Amazon 70%; Merchants 30%), Telangana (Amazon 73%; Merchants 27%), and Tamil Nadu (Amazon 74%; Merchants 26%). Merchants have a higher market share at 30% in Uttar Pradesh compared to the other 4 states. 
+4.	Maharashtra was the strongest market by revenue while PB was the weakest.
+5.	Pondicherry, NL, AR, PB, and Apo were the bottom 5 markets from strongest to weakest. It appears that there is no Amazon or Merchant presence in Apo.
+6.	Apart from Apo, there are no Merchant presence in the remaining 4 states. Amazon is the soul presence that dominates 100% of the market. Despite this sales remained very low. 
+7.	Most of the markets Amazon has been the dominant competitor. Lakshadweep, Orissa, Punjab/Mohali/Zirakpur, and RJ had 100% market share retained by Merchants. These 4 states did not have an Amazon presence. 
+8.	Aruncal Pradesh and Punjab had Merchant market share of 37%, and Sikkim retaining the highest Merchant market share of 40%. While Amazon still dominates most of the market share in these three states, it should be noted that the Merchants within these markets have demonstrated the strongest competitiveness against Amazon.
+
+Products and Sale
+
+1.	The three most popular products by revenue were Sets (51%), Kurtas (27%) and Western Dress (13%).
+2.	Sets were the highest selling product accounting for 51% of revenue with Amazon retaining 73% of revenues derived from sales of this product and Merchants, 27%.
+
 
 **Dashboard Overview:**
 ![AmazonSalesReport](AmazonSalesReport.png)
