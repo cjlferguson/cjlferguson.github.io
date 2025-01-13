@@ -219,7 +219,8 @@ Sales: Orders Over Time
 1.	There are 8 categories for products sold at Vindra’s Store: Blouse, Bottom, Ethic, Kurta, Saree, Set, Top, and Western.
 2.	Orders declined significantly for Sets and Kurta. Regarding Sets, the highest was 1208 in March and the lowest at 877 in December, a decrease of 27% in orders. For Kurta the highest order occurred in March at 992 orders, and the lowest order in November at 766, a decline of 23% in orders. 
 3.	These two declines seemed to have contributed to the overall decline in revenue as most orders from other categories were linear throughout the year. 
- 
+
+ 
 Comparative Percentages by Platforms: Categories, Orders, and Platforms
 
 1.	Blouses sold highest on Myntra (39%), Ajio (29%) and Meesho (24%).
