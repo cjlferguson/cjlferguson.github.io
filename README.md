@@ -162,9 +162,8 @@ Products and Sale
 The data set contains 20 columns and 31,048 rows. The columns are:
 
 Index, Order ID, Cust ID, Gender, Age, Date, Status, Channel, SKU, Category, Size, Qty, Currency, Ship-City, Ship-State, Ship-Postal-Code, Ship-Country, B2B, Revenue.
-The data was analyzed through various Excel tools and curated via a Dashboard.
 
-The dashboard includes the following:
+The data was analyzed through various Excel tools and curated via a Dashboard. The dashboard includes the following:
 
 1.	Markets by % Revenue
 2.	Revenue for 2022
