@@ -157,9 +157,94 @@ Products and Sale
 
 **Tools Used:** Microsoft Excel (Conditional Formatting, Pivot Tables, Pivot Charts, Filters, Excel Maps, Sort, Slicers)
 
-**Project Description:**
+**Project Description:**Vindra is a clothing store with products across several platforms. The report concerns several issues. Store observed a decline in sales over the course of 2022 and it is important to address this and possibly suggest what could be done to overcome the issue moving into 2023. As such questions regarding the biggest platform users, which platforms are the best, which states are Vindra’s greatest markets, and the impact of gender on sales are asked and reported on.
+The data set contains 20 columns and 31,048 rows. The columns are:
+Index, Order ID, Cust ID, Gender, Age, Date, Status, Channel, SKU, Category, Size, Qty, Currency, Ship-City, Ship-State, Ship-Postal-Code, Ship-Country, B2B, Revenue.
+The data was analyzed through various Excel tools and curated via a Dashboard.
+
+The dashboard includes the following:
+
+1.	Markets by % Revenue
+2.	Revenue for 2022
+3.	Number of Orders Over Time
+4.	Revenue By Gender
+5.	Revenue by B2B vs Non-B2B
+6.	Revenue by Category Per Gender
+7.	Top 5 States with Best Performing Platforms
+8.	Platforms That Move the Most Product By Revenue (%)
+9.	Most Active Spenders By Age
+10.	Most Active Age Groups Across Channels
+
 
 **Key findings:**
+
+1.	The 6 main platforms or channels for sales by % revenue comparatively from greatest to least for the year was: Amazon (35%), Myntra (23%), Flipkart (22%), Ajio (6%), Nalli (5%), Meesho (4%), and Others (4%). Amazon holds just over a third of the market.
+2.	Generally, revenues tended to remain high from January to May at 9% but declined thereafter to an average of 8%.
+3.	Amazon saw its highest returns in revenue from January – May with revenue returns remaining at 9%. However, November and December were its lowest performing months at 7%.
+4.	The top performing Categories across all platforms were Sets (40%) and Kurtas (34%) while Blouses and Bottoms significantly underperformed contributing negligible revenues to the whole.
+5.	Shoppers 45-49 showed highest engagement on the Amazon platform while young shoppers aged 22-29 demonstrated a diverse approach in spending habits across multiple platforms. 
+6.	Engagement across Ajio and Meesho could be further enhanced by introducing niche collections, brand collaborations, and utilizing influencer driven campaigns to strengthen engagement and boost sales.
+
+**Drill Down:**
+Revenue: Platforms for Shopping
+
+1.	The 6 main platforms or channels for sales: Ajio, Amazon, Flipkart, Meesho, Myntra, and Nalli. Smaller competitors are categorized under “Others”. 
+2.	The leading platform by % revenue comparatively from greatest to least for the year was: Amazon (35%), Myntra (23%), Flipkart (22%), Ajio (6%), Nalli (5%), Meesho (4%), and Others (4%).
+3.	Generally, revenues tended to remain high from January to May at 9% but declined thereafter to an average of 8%.
+4.	Amazon saw its highest returns in revenue from January – May with revenue returns remaining at 9%. However, November and December were its lowest performing months at 7%. 
+5.	All platforms averaged a rate of 8% revenue returns. 
+
+Platform Engagement by Age
+
+1.	Individuals of age 45-49 were more likely to engage platforms. This seems for both spending and non-spending purposes. Amazon (34%), Myntra (24%) and Flipkart (22%) in that order were engaged the most. Ajio (6%) and Meesho, Nalli, and Others all engaged at 5% by this age group.
+2.	Comparatively, individuals of age 48 years led by 21% engagement, while individuals of age 45,46, and 49 came in second at 20%. Persons aged 47 years came third at 19%.
+
+ 
+Spenders and Platforms Used By Age
+
+1.	The leading platforms conformed to earlier trends of order: Amazon (36%), Myntra (23%), Flipkart (21%), Ajio (6%), Meesho (5%), and Nalli (5%). Others were at 4%.
+2.	The 10 major spenders were aged: 22, 23, 28, 29, 34, 39, 40, 41, 45, and 46. Their spending habits varied across platforms.
+3.	For instance, 13% of persons age 22 were likely to spend on Nalli compared to 8% of that age spending on Ajio.11% of those age 23 were drawn to Myntra and Others, sites of Amazon, Ajio and Meesho having 9% of that age spending on their platforms. 28% of age 28 were found to spend on Ajio, compared with Nalli which only got 8% of those spenders there.
+4.	Age 29 tended to shop across three platforms: Ajio, Amazon and Myntra. Each of these platforms saw 11% of their shoppers to be this age. Only 8% of shoppers were this age on Nalli. 12% of shoppers age 34 comprised shoppers on Meesho. Myntra and Nalli saw only 9% of shoppers to be at this age.
+5.	12% of shoppers on Nalli were aged 39 while only 7% of shoppers on Meesho were this age. 
+6.	11% of shoppers on Ajio were age 40, while 9% of shoppers on Myntra and Nalli were this age. 
+7.	11% of shoppers on Amazon, Flipkart, Meesho and Others were age 41. 8% of shoppers on Myntra were this age.
+8.	12% of shoppers on Nalli were age 45. Only 9% of shoppers on Amazon and Flipkart were this age.
+9.	Finally, 12% of shoppers on Nalli were age 46 while only 9% of shoppers on Ajio and Meesho were at this age.
+
+Sales: Orders Over Time
+
+1.	There are 8 categories for products sold at Vindra’s Store: Blouse, Bottom, Ethic, Kurta, Saree, Set, Top, and Western.
+2.	Orders declined significantly for Sets and Kurta. Regarding Sets, the highest was 1208 in March and the lowest at 877 in December, a decrease of 27% in orders. For Kurta the highest order occurred in March at 992 orders, and the lowest order in November at 766, a decline of 23% in orders. 
+3.	These two declines seemed to have contributed to the overall decline in revenue as most orders from other categories were linear throughout the year. 
+ 
+Comparative Percentages by Platforms: Categories, Orders, and Platforms
+
+1.	Blouses sold highest on Myntra (39%), Ajio (29%) and Meesho (24%).
+2.	Bottom sold highest on Myntra (35%), Amazon (24%) and Flipkart (19%).
+3.	Ethnic Dress sold highest on Amazon (38%) and was at 21% for Flipkart and Myntra.
+4.	Kurta sold highest on Amazon (35%), Myntra (24%) and Flipkart (21%).
+5.	Saree sold highest on Amazon (40%), Flipkart (26%) and Myntra (22%).
+6.	Set sold highest on Amazon (36%), Myntra (23%) and Flipkart (22%).
+7.	Top sold highest on Amazon (35%), Myntra (23%) and Flipkart (22%).
+8.	Western Dress sold highest on Amazon (36%), Myntra (24%) and Flipkart (21%).
+
+Biggest Orders by Categories on Platforms
+
+1.	All platforms followed a particular trend in the Category from with popularity of orders from greatest to least: Set (40%), Kurta (34%), Western Dress (13%), Top (7%), Saree (4%), Ethnic Dress (1%), Blouse (1%), Bottom (0%).
+2.	All Categories were supported by males and females. Females tended to dominate in all Categories both at the ordering and spending levels except for one Category. Males significantly dominated in ordering and purchasing Western Dress while sales were poor among females. 
+
+**Recommendations:**
+
+1.	Improving Revenue. Vindra derives most of its revenue through Amazon which dominates revenue returns by 35%. It is therefore imperative to maintain this income avenue in pristine condition. Strengthening Amazon dominance is important and could be maintained through the offering of exclusive promotions and deals during the weaker months of November and December. Implementation of personal reminders and dates leading up to sales could strengthen engagement and transform visitors into buyers during those months.
+2.	Improving Underperforming Platforms. Ajio (6%) and Meesho (4%) were underperforming platforms. Introduction of niche collections and collaborations with popular brands could help boost engagement and purchases from these platforms. Consideration could also be given to loyalty programs and influencer driven campaigns through incentives of affiliate marketing partnerships to help drive traffic and convert more viewers into  shoppers. 
+3.	Strengthening Platforms for Young Shoppers. Nalli (5%) shoppers were younger in the age group of 22 and 39. Greater focus on modern marketing tactics such as targeted social media marketing campaigns could aid in the appeal to younger shoppers.
+4.	Older Shoppers. Older shoppers in the age group of 45-49 were observed preferring the Amazon platform for their shopping needs. Since this demographic engages most this platform, promotion of seasonal collection and incentives like early access or bundles could strengthen loyalty and improve ease of spending.
+5.	Younger Spenders. Younger spenders in the age group of 22-29 were most likely to spend across multiple platforms and preferred diversity in products. Strengthening brand collaborations with influencers are more popular with Gen Z and Millennials which could increase market capture of this age group and channel spending towards Vindra’s Store. Further strengthening offerings on Ajio and Myntra by introducing category specific discounts could further strengthen engagement by individuals of these ages on these platforms.
+6.	Declining Revenues by Categories. Both Saree and Kurta saw a decline in orders particularly in the latter half of the year. Introduction of trend driven collections and limited time offers could help boost sales in the latter half of the year. Further, implementation of flash sales and targeted promotions could further assist in boosting engagement and increasing conversion to buyers on the platform. Consideration of festivals and seasons with themed ads aligned to the season could further help drive buyers on the platforms.
+7.	Western Dress. Given that this is a male dominated category, introduction of gender specific, theme driven collections exclusive to male with personalized ads showcasing Western Dress could further boost sales. Further, introduction of unisex or female focused designs and marketed through gender specific ads could further improve female purchases in this Category. 
+8.	Non-Contributing Revenue Products. It is recommended that Blouse and Bottoms be excluded from sale on all platforms as these significantly underperformed and revenues gained from these products were negligible to the whole. 
+
 
 **Dashboard Overview:**
 ![VindrasSalesReport](VindrasSalesReport.png)
