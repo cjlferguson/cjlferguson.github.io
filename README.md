@@ -158,7 +158,9 @@ Products and Sale
 **Tools Used:** Microsoft Excel (Conditional Formatting, Pivot Tables, Pivot Charts, Filters, Excel Maps, Sort, Slicers)
 
 **Project Description:**Vindra is a clothing store with products across several platforms. The report concerns several issues. Store observed a decline in sales over the course of 2022 and it is important to address this and possibly suggest what could be done to overcome the issue moving into 2023. As such questions regarding the biggest platform users, which platforms are the best, which states are Vindra’s greatest markets, and the impact of gender on sales are asked and reported on.
+
 The data set contains 20 columns and 31,048 rows. The columns are:
+
 Index, Order ID, Cust ID, Gender, Age, Date, Status, Channel, SKU, Category, Size, Qty, Currency, Ship-City, Ship-State, Ship-Postal-Code, Ship-Country, B2B, Revenue.
 The data was analyzed through various Excel tools and curated via a Dashboard.
 
@@ -186,6 +188,7 @@ The dashboard includes the following:
 6.	Engagement across Ajio and Meesho could be further enhanced by introducing niche collections, brand collaborations, and utilizing influencer driven campaigns to strengthen engagement and boost sales.
 
 **Drill Down:**
+
 Revenue: Platforms for Shopping
 
 1.	The 6 main platforms or channels for sales: Ajio, Amazon, Flipkart, Meesho, Myntra, and Nalli. Smaller competitors are categorized under “Others”. 
