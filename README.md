@@ -254,9 +254,9 @@ Biggest Orders by Categories on Platforms
 
 # Project 4
 
-**Title:** Plant Safety
+**Title:** Plant Safety Report
 
-**SQL Code:**
+**SQL Code:** [Plant Safety SQL Querries](https://github.com/cjlferguson/cjlferguson.github.io/blob/main/PlantSafety.Sql)
 
 **SQL Skills Used:**
 
