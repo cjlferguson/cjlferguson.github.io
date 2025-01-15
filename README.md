@@ -254,7 +254,7 @@ Biggest Orders by Categories on Platforms
 
 # Project 4
 
-**Title:**
+**Title:** Plant Safety
 
 **SQL Code:**
 
