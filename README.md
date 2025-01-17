@@ -267,6 +267,59 @@ Biggest Orders by Categories on Platforms
 
 **Project Description:**
 
+The purpose of this report is to uncover the safety challenges faced by 9 plants in their operations during the period of January 1, 2020 to June 28, 2022. The report therefore seeks to establish and present a clear picture of the impact of incident on worktime, downtime and costs. Further it seeks to clarify Plant perception as incoming employees tend to reflect longevity on plants in terms of their own professional development and earning power in relation to health, and ongoing capacity to engage meaningfully in the day to day activities of the Plant. Great exposure to incidents would mean higher turnovers as employees may seek safer environments that would not significantly impact their earning power. Also higher turnovers may rely on the Plant always seeking replacement due to downtime of injuries. This is crucial as it both impacts profits and shareholder revenue. 
+
+**Key Findings:**
+
+1.	There are nine plants: Alabama, California, Florida, Georgia, Illinois, Iowa, Montana, Ohio, Texas. The entire cost incurred from incidents from all 9 plants was $717,795.00.
+2.	The top 3 Plants with the greatest incurred costs from incidents was Florida ($102,964.00), Georgia ($87,548.00) and Montana ($86,376.00).
+3.	The top 3 areas of injury locations by total cost are the Abdomen ($25,749.00), Trunk ($23,465.00) and Head ($23,398.00).
+4.	Equipment, Crush & Pinch, and Vehicle Incidents have contributed to more repeated incidents that resulted in work absence above 2 days. Abdomen, Back, and Trunk were the highest contributing to work absence above 2 days.
+5.	As it relates to number of incidents, Montana (64), Illinois (61), and Florida (59) were the leading plants.
+6.	In terms of the plant likelihood of incurring injury on a plant, Montana led with a 7% chance of likelihood, while Illinois (6.71%) and Florida (6.49%) came in second and third respectively. Iowa had the lowest likelihood of occurrence at 5.72%.
+7.	The likelihood of injury occurrence by shift varied across plants. Ohio’s night shift led with 42.86%, while California Night Shift (42.59%) and Florida Day Shift (42.37%) came in second and third respectively. The difference in plant likelihoods of occurrences between (3) and (4) is relegated to (3) primarily being concerned with the number of likelihood of occurrences over time while (4) is concerned with the likelihood of occurrence per shift and is therefore calculated according to number of occurrences per shift by total occurrences of shifts.
+8.	As regarding the three highest plants where occurrences of incidents were likely to occur, the likelihood of occurrence across shifts were as follows: Montana Afternoon (39.02%), Montana Day (35.94%), Montana Night (25.00%). Illinois Night(40.98%), Illinois Day (37.04%), Illinois Afternoon (21.31%). Florida Day (42.37%), Florida Afternoon (33.40%), Florida Night (23.73%).
+9.	The Shipping Department in the Georgia Plant incurred an Incident Cost of $20,130.00 while Ohio’s Maintenance Department had incurred costs at $19,127.00 and Florida Maintenance Department at $18,598.00.
+10.	Tuesdays and Fridays a worker was more likely to be injured. Sundays were third likely to be injured while Saturdays were the least likely to be injured. The 3 greatest incidents to cause injury were: Equipment, Crush & Pinch, and Burn.
+
+**Drill Down:**
+
+Introduction
+
+1.	There are nine plants: Alabama, California, Florida, Georgia, Illinois, Iowa, Montana, Ohio, Texas. 
+2.	There 12 Injury Locations: Abdomen, Arms, Back, Eye, Feet, Hands, Head, Legs, Multiple, N/A, Neck, Trunk. 
+3.	There are 9 types of Incident Types: Burn, Crush & Pinch, Cut, Equipment, Fall, Falling Object, Lifting, Slip/Trip, Vehicle. Of course, these 9 Incident Types can affect anywhere across the 12 Injury Locations of the human body.
+4.	The entire cost incurred from incidents from all 9 plants was $717,795.00.
+5.	The top 3 Plants with the greatest incurred costs from incidents was Florida ($102,964.00), Georgia ($87,548.00) and Montana ($86,376.00).
+6.	The top 3 areas of injury locations by total cost are the Abdomen ($25,749.00), Trunk ($23,465.00) and Head ($23,398.00).
+
+Leading Plants by Incidents and Incident Cost
+
+1.	The number of Incidents that have incurred more than 2 workdays of absence has been 82 across all plants. All incident types have contributed to loss of workdays above 2. However, Equipment, Crush & Pinch, and Vehicle Incidents have contributed to more repeated incidents that resulted in work absence above 2 days. These incident types have also included all aspects of Injury Locations. Abdomen, Back, and Trunk were the highest contributing to work absence above 2 days.
+2.	As was indicated, Florida, Georgia and Montana were the 3 leading plants by cost of incidents. However, as it relates to number of incidents, Montana (64), Illinois (61), and Florida (59) were the leading plants. 
+
+Likelihood of Injury At Plants
+
+1.	In terms of the plant likelihood of incurring injury on a plant, Montana led with a 7% chance of likelihood, while Illinois (6.71%) and Florida (6.49%) came in second and third respectively. Iowa had the lowest likelihood of occurrence at 5.72%.
+2.	The likelihood of occurrence by shift varied across plants. Ohio’s night shift led with 42.86%, while California Night Shift (42.59%) and Florida Day Shift (42.37%) came in second and third respectively. The difference in plant likelihoods of occurrences between (3) and (4) is relegated to (3) primarily being concerned with the number of likelihood of occurrences over time while (4) is concerned with the likelihood of occurrence per shift and is therefore calculated according to number of occurrences per shift by total occurrences of shifts. 
+3.	As regarding the three highest plants where occurrences of incidents were likely to occur, the likelihood of occurrence across shifts were as follows: Montana Afternoon (39.02%), Montana Day (35.94%), Montana Night (25.00%). Illinois Night(40.98%), Illinois Day (37.04%), Illinois Afternoon (21.31%). Florida Day (42.37%), Florida Afternoon (33.40%), Florida Night (23.73%).
+
+Leading Plants by Days Lost To Injury
+
+1.	The number of days lost to incident by plant was led by Texas at 56.5 days, Iowa at 46 days and Ohio at 44.5 days. However, comparatively while Texas led by 56.5 days its incident cost was $83,352.00, $3,024 less than Montana, $4,196 less than Georgia (38.5 days lost) and $19,612 less than Florida which were the three leading states in Incident Cost.
+
+Department and Incidents Cost
+
+1.	As it pertained to Incident Cost by Departments, the Shipping Department in the Georgia Plant incurred an Incident Cost of $20,130.00 while Ohio’s Maintenance Department had incurred costs at $19,127.00 and Florida Maintenance Department at $18,598.00. Both Iowa Security Department and Montana Purchasing Department had the least Payout at $189.00 and $0.00 respectively.
+
+Days Most Likely to Be Injured and Incidents Most Likely to Cause Injury
+
+1.	Tuesdays and Fridays a worker was more likely to be injured as incidents were at 87 and 82 respectively. Sundays were third likely having accumulated 78 incidents. Saturdays were the least likely to be injured having accumulated 60 incidents.
+2.	Incident Types were intimately tied to number of days lost. The incidents considered here were related to the condition that resulted in more than 3 days of absence. Incidents caused by Equipment caused the greatest loss of days with a total of 57.5 days of absence. Crush & Pinch had 33 days, while Falling Object 28.5 days. Burns and Falls were at 23.5 and 20.5 respectively, followed by Slip & Trip (20 days), Lifting (17 days), and Cut (16.5 days). 
+3.	In relation to Incident Types resulting in total number of days lost. This measurement was concerned with the greatest number of days lost by specific incidents. The 3 greatest incidents were: Equipment contributing a loss of 66.5 days over the period, Crush & Pinch 52.5 days, and Burn 44.5 days. Cut contributed the least days of work absence with only 29 days.
+
+**Recommendations:**
+
 **Technology used:** SQL server
 
 # Project 5
