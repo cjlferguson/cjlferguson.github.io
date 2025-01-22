@@ -333,9 +333,9 @@ Days Most Likely to Be Injured and Incidents Most Likely to Cause Injury
 
 # Project 5
 
-**Title:**
+**Title:** Pizza Delivery
 
-**SQL Code:**
+**SQL Code:** Pizza Devery SQL Querries
 
 **SQL Skills Used:**
 
@@ -345,7 +345,82 @@ Days Most Likely to Be Injured and Incidents Most Likely to Cause Injury
 4. Data Source Specification (FROM): Specified the tables used as data sources for retrieval.
 
 
-**Project Description:**
+**Project Description:** This report intends to provide a clear picture of the preferences, delivery and revenues of a Pizza Restaurant from January 27 to October 28, 2015. It clarifies which pizzas were favorited, the entire revenue earned, the number of orders placed which would be critical to informing menu decisions and targeted revenue goals.
+
+**Key Findings:**
+
+1.	There are 32 types of Pizzas sold at the restaurant. The total revenue earned for the period was $795, 200 while the total orders made were 48620 with 49574 pizzas sold.
+a.	The top 10 pizza types were The Thai Chicken Pizza, The Barbeque Chicken Pizza, , The California Chicken Pizza, The Classic Deluxe Pizza, The Spicy Italian Pizza, The  Southwest Chicken Pizza, The Italian Supreme Pizza, The Hawaiian Pizza, The Four Cheese Pizza, and The Sicilian Pizza.
+2.	The revenue of these top 10 pizzas for the year was $368,993 which is 44.55% of the total revenue.
+3.	The 5 worst pizzas types were The Italian Vegetables Pizza, The Spinach Supreme Pizza, The Green Garden Pizza, and The Brie Carre Pizza which brought in $72074 or 8.07% of the total revenue for the year.
+4.	The top 3 performing months were July with a revenue of $73,708, May with a revenue of $72,515, and November bringing in $71,254.
+5.	The worst 3 performing months were December which brough in $65,473, October which saw $65,345 and September which had a revenue of $64,929.
+6.	The sum of the differences between the best month of July from the worst month of December was $8235.	July had 341 more quantities sold than December.
+
+**Drill Down:**
+1.	There are 32 types of Pizzas sold at the restaurant.
+2.	The total revenue earned for the period was $795, 200 while the total orders made were 48620 with 49574 pizzas sold.
+3.	The top 10 pizza types were 
+a.	The Thai Chicken Pizza
+b.	The Barbeque Chicken Pizza
+c.	The California Chicken Pizza
+d.	The Classic Deluxe Pizza
+e.	The Spicy Italian Pizza
+f.	The Southwest Chicken Pizza
+g.	The Italian Supreme Pizza
+h.	The Hawaiian Pizza
+i.	The Four Cheese Pizza
+j.	The Sicilian Pizza
+4.	Together the revenue for the top 10 was $368,993 or 44.55% of the total revenue.
+5.	The 5 worst pizzas types were 
+a.	The Italian Vegetables Pizza
+b.	The Spinach Supreme Pizza
+c.	The Green Garden Pizza
+d.	The Brie Carre Pizza. 
+6.	Altogether the 5 worst pizzas brought in $72074 which as 8.07% of the total revenue for that period.
+7.	The top 3 performing months were 
+a.	July with a revenue of $73,708
+b.	May with a revenue of $72,515
+c.	November bringing in $71,254.
+8.	The top 3 pizza types for those months were:
+a.	May: The Barbeque Chicken Pizza ($3996), The Thai Chicken Pizza ($3706) and The California Chicken Pizza ($3556).
+b.	July: The Thai Chicken Pizza ($4236), The Classic Deluxe Pizza ($3716), and The Barbeque Chicken Pizza ($3696)
+c.	November: The Barbeque Chicken Pizza ($4082), The Thai Chicken Pizza ($3864) and The California Chicken Pizza ($3790).
+d.	The top 3 pizza by revenue for those months were:
+i.	The Thai Chicken Pizza ($11806)
+ii.	The Barbeque Chicken Pizza ($11774)
+iii.	The California Chicken Pizza ($7346)
+9.	The worst 3 performing months were December which brough in $65,473, October which saw $65,345 and September which had a revenue of $64,929.
+10.	The best 3 pizzas types sold for each of the worst months were:
+a.	December: The Thai Chicken Pizza ($3786), The California Chicken Pizza ($3640) and The Classic Deluxe Pizza ($3204).
+b.	October: The Thai Chicken Pizza ($3554), The Classic Deluxe Pizza ($3152) and The Barbecue Chicken Pizza ($3150).
+c.	September: The Thai Chicken Pizza ($3752), The Classic Deluxe Pizza ($3486) and The California Chicken Pizza ($3352).
+11.	The pattern of orders for the three best pizzas during the 3 worst months are very similar to that of the orders of the three best pizzas during the 3 best months. 
+12.	The worst 3 pizzas types sold for each month were: 
+a.	December: The Soppressata Pizza ($1116), The Green Garden Pizza ($956), and The Brie Carre Pizza ($853).
+b.	October: The Mediterranean Pizza ($1068), The Spinach Pesto Pizza ($920), and The Brie Carre Pizza ($830).
+c.	September: The Spinach Supreme Pizza ($1102), The Calabrese Pizza ($1088) and The Soppressata Pizza ($1068).
+13.	The worst pizzas types that consisted the worst three revenue months and their revenues were:
+a.	The Soppressata Pizza ($2184)
+b.	The Brie Carre Pizza ($1683)
+c.	The Spinach Supreme Pizza ($1102)
+d.	The Calabrese Pizza ($1088)
+e.	The Mediterranean Pizza ($1068)
+f.	The Green Garden Pizza ($956)
+g.	The Spinach Pesto Pizza ($920)
+14.	It should be appreciated that the pizza types which consisted of the top 3 best months had greater consistency in its menu orders; only 4 pizza types occupied the top 3 positions in the best months. None of the pizza types consisting of the top 3 months were present in orders of the worst three months. Further, there were 7 pizza types of the worst 3 months that occupied the top 3 positions for each of those 3 months.
+15.	The sum of the differences between the best month of July from the worst month of December was $8235.	July had 341 more quantities sold than December.
+16.	There were 11649 veggie pizzas sold bringing in $189,596.
+17.	3842 Hawaiian Pizzas were sold bringing in $59207 for the period.
+18.	All 32 pizza types were participated in for the month of January; the same was done for the months of November 1 – December 31.
+
+**Recommendations:**
+1.	The menu should be slimmed down to approximately 15 pizzas which would aid in streamline orders towards the more popular pizzas. The five worst pizzas should definitely be removed from the menu. The two main categories should be meat and veggie pizzas. Ideally there should be no more than 5 categories with no more than 4 options per category.
+2.	The restaurant should invest further in marketing strategies to assist slower months. Deals could be crafted for families and seasonal periods.
+3.	Consideration should be given to pairing items or different pizzas together. Further, it may further assist sales if certain sides and drinks are available. 
+4.	Customers could also be given the option to craft their own pizzas. This may also provide an opportunity for those who love the lower performing pizza types but are in low numbers for profit purposes. A streamlined list of options for personalizing pizzas may turn this into a profitable opportunity as it may aid in capturing and aggregating those who may have individually supported the poorer performing pizzas.
+
+
 
 **Technology used:** SQL server
 
