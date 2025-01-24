@@ -426,9 +426,9 @@ g.	The Spinach Pesto Pizza ($920).
 
 # Project 6
 
-**Title:**
+**Title:** American Football Players Interrogation 
 
-**SQL Code:**
+**SQL Code:** [American Football Player Sql Querries](https://github.com/cjlferguson/cjlferguson.github.io/blob/main/AmericanFootballPlayers.Sql) 
 
 **SQL Skills Used:**
 
@@ -437,8 +437,29 @@ g.	The Spinach Pesto Pizza ($920).
 3. Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
 4. Data Source Specification (FROM): Specified the tables used as data sources for retrieval.
 
-
 **Project Description:**
+
+
+**Key Findings:**
+
+1.	There are two teams: Arizona (A) New Orleans (NO). The age range for both periods range from 21-40 years. The year comparison for 2010 and 2022 teams are similar with insignificant differences.
+2.	In 2010 New Orleans was superior to Arizona. Due to NO being strong in the key positions, for defense LBs, and offensive positions with TEs and WRs, NO was positioned to be the superior team.
+3.	No players switched to either team after their 2010 season.
+4.	The top colleges which provided players were: Ohio State (9), Tenesse (9), Pittsburgh (8), USC (8), Michigan (7), Florida State (6), Washington (6), Oklahoma (6), Notre Dame (6). These seemed to provide the best quality players for teams.
+5.	In 2022 the Arizona team was superior to New Orleans and should have won the game. Given the lack of depth in many positions where only 1 player occupied compared to 2010 where multiple players were positioned, NO increased its risk to injuries and fatigue which is crucial to the success in these games. A had a more balanced roster preserving endurance and at times better rotations over NO. Further A had 16LBs compared to NO 9LBs suggesting a more well-rounded defense from A.
+
+**Drill Down:**
+
+1.	There are two teams: Arizona (A) which saw 150 players and New Orleans (NO) 156 players collectively during the two periods. However for 2010, A=59 players while NO=68 players. In 2022, A=91 players while NO=88 players.
+2.	The age range for both periods range from 21-40 years. The year comparison for 2010 and 2022 teams are similar with insignificant differences and increases uniformly up the range.
+3.	In the 2010 teams NO 1 player more in DT position, 3 players more in LB position, 1 player more in OT position, 1 player more in RB position, 1 player more in S position, 3 players more in TE position, and 1 player more in WR position. However A had 1 player more in C position, and 1 player more in G position.
+4.	In 2022 A had 3 players more in CB position, 10 players more in OL position, 7 players more in OLB position, 1 players more in P position, 3 players more in S position, 1 player more in TE position, and 2 players more in WR position. However, NO had 2 players more in DE position, 1 player more in DT position, and 1 player more in K position.
+5.	No players switched to either team after their 2010 season. 
+6.	The top colleges which provided players were: Ohio State (9), Tenesse (9), Pittsburgh (8), USC (8), Michigan (7), Florida State (6), Washington (6), Oklahoma (6), Notre Dame (6). These seemed to provide the best quality players for teams. 
+7.	35.59% of Arizona’s team in 2010 were made up of players 25 years and younger while 35.29% of New Orleans were constituted by this same group for that year. In 2022 Arizona’s team had 51.65 % of players who were 25 years old and younger while New Orleans had 53.41% of that same group for that year.
+8.	In 2010 some key positions might have lead to New Orleans victory over Arizona. A had 3Cs, 4Gs, and 3OTs compared to NO which had 2Cs, 3Gs, and 4OTs.  Although A had better depth at guard and center NO had more OTs which could translate into better protection of QTs edges. NO had 7 WRs compared to A which had 6 indicating better opportunities for rotation. NO had 6RBs compared to A which 5 giving NO a better advantage to ‘run the ball’ more effectively. NO also had better TEs with 6 compared to A 3TEs which was a major advantage and meant that NO had greater opportunities for better blocking and passing. Another major advantage was that NO had more LBs than A: NO had 10 whereas A had 7 giving NO increased rotations and more endurance. Due to NO being strong in the key positions, for defense LBs, and offensive positions with TEs and WRs, NO was positioned to be the superior team. 
+9.	In 2022 NO emerged with significant weak positions. A was able to strengthen its OL with 16 players while NO only had 6. This was a major advantage for A enabling significant protection of the QB and ‘running the ball’ quite effectively. A also had a more balanced roster preserving endurance and at times better rotations over NO. Further A had 16LBs compared to NO 9LBs suggesting a more well rounded defense from A. Given the lack of depth in many positions where only 1 player occupied compared to 2010 where multiple players were positioned, NO increased its risk to injuries and fatigue which is crucial to the success in these games. 2022 Arizona team was superior to New Orleans and should have won the game.
+
 
 **Technology used:** SQL server
 
