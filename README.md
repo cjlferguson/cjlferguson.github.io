@@ -481,5 +481,6 @@ g.	The Spinach Pesto Pizza ($920).
 6.	The greatest factor which contributed to flight cancellations was the weather at 57.53% with Chicago and Dallas – Fort Worth being the two cities affected the most.   Internal issues from airline companies also contributed at 28.3%. Generally, these were the two greatest factors which contributed to cancellations.
 
 **Dashboard Overview:**
+![FlightCancellations](FlightCancellations.png)
 
 
