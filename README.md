@@ -463,7 +463,7 @@ g.	The Spinach Pesto Pizza ($920).
 
 **Technology used:** SQL server
 
-# Project 6
+# Project 7
 
 **Title:** [Flight Cancellations Report](https://github.com/cjlferguson/cjlferguson.github.io/blob/main/PowerBIFlightCancellation.pbix)
 
