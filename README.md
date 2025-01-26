@@ -465,7 +465,7 @@ g.	The Spinach Pesto Pizza ($920).
 
 # Project 6
 
-**Title:** Flight Cancellations Report
+**Title:** [Flight Cancellations Report](https://github.com/cjlferguson/cjlferguson.github.io/blob/main/PowerBIFlightCancellation.pbix)
 
 **Tools Used:**
 
