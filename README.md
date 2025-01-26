@@ -463,5 +463,23 @@ g.	The Spinach Pesto Pizza ($920).
 
 **Technology used:** SQL server
 
+# Project 6
+
+**Title:** Flight Cancellations Report
+
+**Tools Used:**
+
+**Project Description:**
+
+**Key Findings:**
+
+1.	There were 2M flights for the period of which 790,000 were delayed and 29,000 cancelled. 
+2.	The top 3 cities with the highest number of flights were Atlanta, Chicago and Dallas – Fort Worth. Atlanta had the highest number of flights at 346,836 for the season while Minneapolis had the least at 112,117 flights. 
+3.	The airlines with the highest number of delays was United Airlines, Southwest Airlines, and Spirit Airlines. 
+4.	United Airlines was the worst airlines to travel as more than half of its flights (53%) were always delayed. This was followed up by Southwest Airlines where 51% of the time its flights were delayed and finally Spirit Airlines at 49%. US Airways was the least as only 31% of the time its flights were delayed. 
+5.	Generally the 1st day of the week had a 4% chance of flight cancellations while Thursday had the least chance of cancelling.
+6.	The greatest factor which contributed to flight cancellations was the weather at 57.53% with Chicago and Dallas – Fort Worth being the two cities affected the most.   Internal issues from airline companies also contributed at 28.3%. Generally, these were the two greatest factors which contributed to cancellations.
+
+**Dashboard Overview:**
 
 
