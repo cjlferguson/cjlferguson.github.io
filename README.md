@@ -485,4 +485,28 @@ g.	The Spinach Pesto Pizza ($920).
 
 **Technology Used:** Power BI
 
+# Project 8
+
+**Title:** [Healthcare Analysis Report](https://github.com/cjlferguson/cjlferguson.github.io/blob/main/HealthCareAnalysis.pbix)
+
+**Project Description:**
+
+**Key Findings:**
+
+1.	There are 5 departments that are considered: Cardiology, Orthopedics, General Surgery, Neurology, and Pediatrics.
+2.	The total billing amount is £3M with an average cost of £674.86 per visit. Medication costs were totaled to £546 000 with average cost of £109.21. Treatment costs were also totaled to £3M but with an average cost of ££456.04. Room charges were £180 000 which averaged at £36.12 per room. Out-of-pocket costs were given at £1.13M averaging at £227.26 per payment.
+3.	Several procedures contribute to the total billing amount. X-Rays which led by £1.05M (31%), CT Scans at £806K (24%), MRI Scans at £601K (18%), Ultrasounds at £481K (14%), and Blood Tests at £415K (12%).
+4.	The departments Cardiology (25.2%), Orthopedics (24.2%), and General Surgery (23.3%) contributed significantly to the Total Billing Amount. 
+5.	The departments of Orthopedics (47.1%), General Surgery (21.2%) and Cardiology (15.7%) relied the most on the services of X-Rays. 
+6.	The departments of General Surgery (47%), Cardiology (22.8%) and Neurology (13.1%) relied the most on CT scans.
+7.	The departments of Orthopedics (33.8%), Cardiology (26.3%), Neurology (16.4%), and Pediatrics (16.4%) depended the most on MRI Scans.
+8.	The departments of Cardiology (36.1%), General Surgery (22.6%), Neurology (18.5%) and Pediatrics (16%) were the most reliant on Ultrasounds. 
+9.	The departments of Cardiology (40.1%), Neurology (23%) and Pediatrics (20.5%) were the most reliant on Blood Tests.
+10.	The 3 largest patient locations were Edinburgh, Birmingham and Sheffield.
+11.	Outpatient care contributed most significantly to the billing amount while Emergency and Inpatient care combined contributed to over 50% of the billing amount 60% of the time. Asthma, Fractures, Migraines were diagnoses which contributed over 50% of the billing amount through the combined care of Emergency and Inpatient care. Hypertension and Appendicitis contributed over 50% of the billing amount through Outpatient care.
+
+**Dashboard overview:** 
+![HealthcareAnalysis](HealthcareAnalysis.png)
+
+**Technology Used:** Power BI
 
