@@ -5,8 +5,8 @@
 
 **Tools Used:** Microsoft Excel (Conditional Formatting, Pivot Tables, Pivot Charts, Filters, Sort, Slicers)
 
-**Project Description:** The study analyses and provides the key metrics in the recruitment process for an International Recruitment Agency. It identifies trends and patterns in the recruitment process across different global regions for the months of March and April, 2022. 
-The study focusses on three geographical areas of recruitment resource: North America, Europe, and Asia. The data set holds over seven thousand (7000) rows of data with information spread over three tables. 
+**Project Description:** The report analyses and provides key metrics in the recruitment process for an International Recruitment Agency. It identifies trends and patterns in the recruitment process across different global regions for the months of March and April, 2022. 
+The report focusses on three geographical areas of recruitment resource: North America, Europe, and Asia. The data set holds over seven thousand (7000) rows of data with information spread over three tables. 
 The recruitment process has seven (7) active phases: Application Review, Phone Screening, Interview #1, Waitlist, Next Steps, Final Interview, Diligence. These phases are separated and analyzed through various Excel tools and curated via a Dashboard.
 The dashboard includes the following:
 1.	_Global Talent Count Per Month_. Visual representation of count number of applicants during each phase of the recruitment process.
