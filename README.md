@@ -261,9 +261,12 @@ Biggest Orders by Categories on Platforms
 **SQL Skills Used:**
 
 1. Data Retrieval (SELECT): Queried and extracted specific information from the database.
-2. Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
-3. Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+2. Data Aggregation (SUM, COUNT, GROUP BY): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+3. Data Filtering (WHERE, BETWEEN, IN, AND, TOP): Applied filters to select relevant data, including filtering by ranges and lists.
 4. Data Source Specification (FROM): Specified the tables used as data sources for retrieval.
+5. DATA SORT (ORDER BY): Sorted data to organize the results in a speciifc order.
+6. WINDOWING AND RANKING (PARTITION BY, RANK()): Divided data into partitions and applied ranking to each partition, calculating metrics such as ranks.
+7. ADVANCED QUERY TECHNIQUES (SUBQUEIRES, DERIVED TABLES, CTEs, JOINS): Nested queries for filtering, calculations or joins. Utilized subqueries in the FROM clause as temporary tables. Utilized CTEs for better readibility and reuse of temporary tables. Utlized JOINS, LEFT JOINS, INNER JOINS, to combine multiple tables efficiently. 
 
 **Project Description:**
 
@@ -340,9 +343,12 @@ Days Most Likely to Be Injured and Incidents Most Likely to Cause Injury
 **SQL Skills Used:**
 
 1. Data Retrieval (SELECT): Queried and extracted specific information from the database.
-2. Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
-3. Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+2. Data Aggregation (SUM, COUNT, GROUP BY): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+3. Data Filtering (WHERE, BETWEEN, IN, AND, TOP): Applied filters to select relevant data, including filtering by ranges and lists.
 4. Data Source Specification (FROM): Specified the tables used as data sources for retrieval.
+5. DATA SORT (ORDER BY): Sorted data to organize the results in a speciifc order.
+6. WINDOWING AND RANKING (PARTITION BY, RANK()): Divided data into partitions and applied ranking to each partition, calculating metrics such as ranks.
+7. ADVANCED QUERY TECHNIQUES (SUBQUEIRES, DERIVED TABLES, CTEs, JOINS): Nested queries for filtering, calculations or joins. Utilized subqueries in the FROM clause as temporary tables. Utilized CTEs for better readibility and reuse of temporary tables. Utlized JOINS, LEFT JOINS, INNER JOINS, to combine multiple tables efficiently..
 
 
 **Project Description:** This report intends to provide a clear picture of the preferences, delivery and revenues of a Pizza Restaurant from January 27 to October 28, 2015. It clarifies which pizzas were favorited, the entire revenue earned, the number of orders placed which would be critical to informing menu decisions and targeted revenue goals.
@@ -433,9 +439,12 @@ g.	The Spinach Pesto Pizza ($920).
 **SQL Skills Used:**
 
 1. Data Retrieval (SELECT): Queried and extracted specific information from the database.
-2. Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
-3. Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+2. Data Aggregation (SUM, COUNT, GROUP BY): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+3. Data Filtering (WHERE, BETWEEN, IN, AND, TOP): Applied filters to select relevant data, including filtering by ranges and lists.
 4. Data Source Specification (FROM): Specified the tables used as data sources for retrieval.
+5. DATA SORT (ORDER BY): Sorted data to organize the results in a speciifc order.
+6. WINDOWING AND RANKING (PARTITION BY, RANK()): Divided data into partitions and applied ranking to each partition, calculating metrics such as ranks.
+7. ADVANCED QUERY TECHNIQUES (SUBQUEIRES, DERIVED TABLES, CTEs, JOINS): Nested queries for filtering, calculations or joins. Utilized subqueries in the FROM clause as temporary tables. Utilized CTEs for better readibility and reuse of temporary tables. Utlized JOINS, LEFT JOINS, INNER JOINS, to combine multiple tables efficiently.
 
 **Project Description:**
 
