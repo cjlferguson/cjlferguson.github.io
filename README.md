@@ -480,7 +480,7 @@ The dataset has15 columns and over 300 rows. The data was interrogated through S
 
 **Title:** [Flight Cancellations Report](https://github.com/cjlferguson/cjlferguson.github.io/blob/main/PowerBIFlightCancellation.pbix)
 
-**Tools Used:**
+**Tools Used:** Power BI (Power Query, Data Modelling, DAX, Conditional Formatting, Power BI Visuals)
 
 **Project Description:** The report analyzes flight performance data and presents trends and delays across major US cities and airlines. Of great interest was uncovering patterns and factors contributing to flight disruptions. Key areas of focus were flight volume, top flight hubs, airline performance, cancellations of the week and factors contributing to cancellations.
 
@@ -514,6 +514,8 @@ The data was interrogated and curated through Power BI visuals in the forms of a
 # Project 8
 
 **Title:** [Healthcare Analysis Report](https://github.com/cjlferguson/cjlferguson.github.io/blob/main/HealthCareAnalysis.pbix)
+
+**Tools Used:** Power BI (Power Query, Data Modelling, DAX, Conditional Formatting, Power BI Visuals)
 
 **Project Description:** This report aims to identify and provide a clear picture of cost distributions, procedural dependencies and patient care trends within healthcare in the UK. The report considers five key departments in its analysis: Cardiology, Orthopedics, General Surgery, Neurology, and Pediatrics. Key insights are given to billing overview, the top contributing procedures, overall departmental contributions to top billing, departmental reliance on procedures, and patient demographics and billing sources.
 
