@@ -353,6 +353,8 @@ Days Most Likely to Be Injured and Incidents Most Likely to Cause Injury
 
 **Project Description:** This report intends to provide a clear picture of the preferences, delivery and revenues of a Pizza Restaurant from January 27 to October 28, 2015. It clarifies which pizzas were favorited, the entire revenue earned, the number of orders placed which would be critical to informing menu decisions and targeted revenue goals.
 
+The data set has 12 columns with 48 000 rows.
+
 **Key Findings:**
 
 1.	There are 32 types of Pizzas sold at the restaurant. The total revenue earned for the period was $795, 200 while the total orders made were 48620 with 49574 pizzas sold.
