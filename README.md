@@ -157,7 +157,7 @@ Products and Sale
 
 **Tools Used:** Microsoft Excel (Conditional Formatting, Pivot Tables, Pivot Charts, Filters, Excel Maps, Sort, Slicers)
 
-**Project Description:**Vindra is a clothing store with products across several platforms. The report concerns several issues. Store observed a decline in sales over the course of 2022 and it is important to address this and possibly suggest what could be done to overcome the issue moving into 2023. As such questions regarding the biggest platform users, which platforms are the best, which states are Vindra’s greatest markets, and the impact of gender on sales are asked and reported on.
+**Project Description:** Vindra is a clothing store with products across several platforms. The report concerns several issues. Store observed a decline in sales over the course of 2022 and it is important to address this and possibly suggest what could be done to overcome the issue moving into 2023. As such questions regarding the biggest platform users, which platforms are the best, which states are Vindra’s greatest markets, and the impact of gender on sales are asked and reported on.
 
 The data set contains 20 columns and 31,048 rows. The columns are:
 
