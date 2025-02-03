@@ -482,7 +482,20 @@ The dataset has15 columns and over 300 rows. The data was interrogated through S
 
 **Tools Used:**
 
-**Project Description:**
+**Project Description:** The report analyzes flight performance data and presents trends and delays across major US cities and airlines. Of great interest was uncovering patterns and factors contributing to flight disruptions. Key areas of focus were flight volume, top flight hubs, airline performance, cancellations of the week and factors contributing to cancellations.
+
+The data was interrogated and curated through Power BI visuals in the forms of a dashboard to immediately convey the story. The dashboard includes the following:
+
+1.	Total Flights by Month
+2.	Delayed Flights by Month
+3.	Cancelled Flights by Month
+4.	Total Flights by City
+5.	% Delayed by Airlines
+6.	Cancelled Flights by Cancellation Description
+7.	% On-Time Flights
+8.	% Delayed-Flights
+9.	% Cancelled Flights
+10.	Total Flights by Status
 
 **Key Findings:**
 
