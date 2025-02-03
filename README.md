@@ -515,7 +515,20 @@ The data was interrogated and curated through Power BI visuals in the forms of a
 
 **Title:** [Healthcare Analysis Report](https://github.com/cjlferguson/cjlferguson.github.io/blob/main/HealthCareAnalysis.pbix)
 
-**Project Description:**
+**Project Description:** This report aims to identify and provide a clear picture of cost distributions, procedural dependencies and patient care trends within healthcare in the UK. The report considers five key departments in its analysis: Cardiology, Orthopedics, General Surgery, Neurology, and Pediatrics. Key insights are given to billing overview, the top contributing procedures, overall departmental contributions to top billing, departmental reliance on procedures, and patient demographics and billing sources.
+
+The analysis was curated through Power BI Dashboard. It includes:
+
+1.	Billing
+2.	Medication Cost
+3.	Treatment Cost
+4.	Insurance Cost
+5.	Room Charges
+6.	Out of Pocket Billing
+7.	Patients Location
+8.	Total Billing Amount by Procedure
+9.	Total Billing Amount by Diagnosis and Service Type
+10.	Blank Measures and Total Billing Amount by Department
 
 **Key Findings:**
 
