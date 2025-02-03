@@ -353,7 +353,8 @@ Days Most Likely to Be Injured and Incidents Most Likely to Cause Injury
 
 **Project Description:** This report intends to provide a clear picture of the preferences, delivery and revenues of a Pizza Restaurant from January 27 to October 28, 2015. It clarifies which pizzas were favorited, the entire revenue earned, the number of orders placed which would be critical to informing menu decisions and targeted revenue goals.
 
-The data set has 12 columns with 48 000 rows.
+The data set has 12 columns with 48 000 rows. The data was interrogated through SQL to achieve the relevant insights given below.
+
 
 **Key Findings:**
 
@@ -448,8 +449,9 @@ g.	The Spinach Pesto Pizza ($920).
 6. WINDOWING AND RANKING (PARTITION BY, RANK()): Divided data into partitions and applied ranking to each partition, calculating metrics such as ranks.
 7. ADVANCED QUERY TECHNIQUES (SUBQUEIRES, DERIVED TABLES, CTEs, JOINS): Nested queries for filtering, calculations or joins. Utilized subqueries in the FROM clause as temporary tables. Utilized CTEs for better readibility and reuse of temporary tables. Utlized JOINS, LEFT JOINS, INNER JOINS, to combine multiple tables efficiently.
 
-**Project Description:**
+**Project Description:** This report provides an insight into the composition of two football teams which faced each other during the 2010 season and 2022 season. The report analyzes the impact of team composition and the ability for rotation on potential key issues such as increasing risk of injuries and fatigue, and how these can impact winning a game. This is an important analysis as it provides pertinent information that sets the foundation for hedging in sports betting.
 
+The dataset has15 columns and over 300 rows. The data was interrogated through SQL to achieve the relevant insights given below.
 
 **Key Findings:**
 
