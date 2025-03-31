@@ -551,3 +551,16 @@ The analysis was curated through Power BI Dashboard. It includes:
 
 **Technology Used:** Power BI
 
+# Project 9
+
+**Title:** UK UNemployement And Interest Rates
+
+**R Code:**
+
+**Tools Used:**
+
+**Project Description:**
+
+**Key Findings:**
+
+**Technology Used:** R Programming
