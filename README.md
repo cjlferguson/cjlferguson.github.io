@@ -582,8 +582,10 @@ Estimation of Autoregression Model Testing for Violations I. Does economic theor
 
 our process may be considered stationary. It is also assumed that if the beta 1 = 1, this suggests drift and the process is non-stationary.
 
-• Therefore, 
+• Therefore,
+
 i.	H_0: beta 1 = 1 
+
 ii.	ii. H_1: beta 1 < 1
 
 
