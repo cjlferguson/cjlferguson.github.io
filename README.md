@@ -553,7 +553,7 @@ The analysis was curated through Power BI Dashboard. It includes:
 
 # Project 9
 
-**Title:** UK UNemployement And Interest Rates
+**Title:** Investigating the Impact of UK Debt-t0-Income Ratio on UK UNemployement
 
 **R Code:**
 
@@ -561,6 +561,113 @@ The analysis was curated through Power BI Dashboard. It includes:
 
 **Project Description:**
 
+Data Description Debt to Income Ratio 
+
+The debt to income (DTI) ratio is the percentage ratio of one’s monthly debt payments divided by one’s gross monthly income. The utilisation of this instrument provides measure regarding the capacity of either individual or firm to service its debt through its income (Murphy, 2022). The Unemployment Rate The UK unemployment rate is the number of unemployed people divided by the active population (that is, the sum of those capable of working but are unemployed, and those who are employed) (Office for National Statistics, 2020). Hypothesis/Rough Question It is hypothesized that debt to income ratio can be shown to be induced by UK unemployment rate where a non-reciprocal relationship is shared between both. What this means is that it is expected to be observed unemployment increases debt as absence of income encourages borrowing raising debt relative to income.
+
+
 **Key Findings:**
+
+**Drill Down:**
+
+![UK_Debt_Income_Ratio](UK_Debt_Income_Ratio.png) ![UK_Unemploy_Rate](UK_Unemploy_Rate.png)
+
+Estimation of Autoregression Model Testing for Violations I. Does economic theory suggest that your time series should exhibit a roughly linear time trend? 
+
+• From the graph above the model seems to exhibit a rough linear time trend. What this means is that the values of the distribution do not seem to remain the same in the past of future suggesting that this trend is not stationary. We can expect our variance to keep increasing over time. 
+• However if in our AR(1) model, |beta 1| < 1, our process may be considered stationary. It is also assumed that if the beta 1 = 1, this suggests drift and the process is non-stationary.
+• Therefore, 
+i.	H_0: beta 1 = 1 
+ii.	ii. H_1: beta 1 < 1
+
+
+[INSERT IMAGE]
+
+II. Transforming ARI by first differencing. From table 1, since beta 1 for ARI model is 0.9923106 this approximates to 1, indicating presence of unit root. From table 2, taking first difference yields beta hat 1 <1, at -0.0076894 which is significant at the 0.0001 value or 0.1% significance.
+
+III. Selection of Lag Length. Lag length increases the predictive power of the model incorporating the impact of previous periods on the present variable.
+
+IV. The Bayes Information Criterion (BIC) was utilized for lag length selection. The BIC reduces the sum of squared residuals as lags increase. The following BIC was performed to a lag length at p=4 were BIC(1): 0.4252; BIC(2): -0.4733; BIC(3): -0.4941; BIC(4): -0.4807. Since BIC(3) reserves the lowest value, a lag length of three is selected.
+
+V. After first differencing for unit root process, the new BICs performed for a lag length at p=4, BIC(1): 0.4252; BIC(2): -0.4733; BIC(3): -0.4941; BIC(4): -0.4807. New lag lengths accepted for BIC(3): -0.4941 being the lowest. A lag length of three has been adopted for the first differenced model.
+
+VI. Is the coefficient on the ARI and ARp model significant? ARI beta 1 coefficient was held at 0.9923106 and was significant to 0.0001 value or 0.01% significance, suggesting a high degree of unit process within the AR1 model. First differencing on the AR1 model produced beta 1 coefficient of -0.0076894 significant to 0.1 value or 10% significance.
+
+AR-1 ANALYSIS
+[INSERT AR 1 TABLE IMAGE]
+
+An AR(1) regression on the variable outcome was performed yielding levels of significance at the 0.0001% significance level for lag 1 at 2x10^-16. The beta 1 coefficient although beta 1<1, beta 1 coefficient is 0.9923106 which approximates to 1. This suggests the process has unit roots, so that drift is present and that our trend is non stationary. One of the challenges of unit root processes is that the distribution of Y is changing due to an increasing variance and also a mean is never changing systematically. Using the Dickey Fuller Test to confirm for unit root process, the test statistic -1.7132 and t-critical values -3.46, the null hypothesis is rejected that the time series data is stationary and is corrected first differencing. The new values can be observed below in table 3.
+
+ADL-11 AND ADL-22 ANALYSIS
+
+[INSERT ADL-11 AND ADL-22 TABLES]
+
+The F statistic in the Granger Test for X variables is 4.471 and are jointly significant at the 5% mark for X:t-1 and X:t-2, and are therefore jointly significant predictors of variable Y-t. What is observed is that higher lag values of Y-t, that is higher past values of debt to income ratio positively influence debt to income ratio at time t or the higher past values of debt to income ratio indicates increased likelihood of having greater debt relative to income earned. In short, more debt produces more debt relative to income earned for each period. Also, our X values indicate that for past values of increasing unemployment rate positively impacts debt to income ratio or as unemployment increases the greater the likelihood of having debt increase relative to income earned. For lag periods of X_t-1 indicates that for 1 unit increase in UK Unemployment Rate there is an expected increase in Debt to Income Ratio by -0.412% and for lags X:t-2 this indicates that for a 1 unit increase in UK unemployment removed twice there is an expected increase in UK Debt to Income Ratio by 0.286%. What this means is that immediate periods of unemployment such as the first year does not seem to readily impact debt to income ratio. However as debt is prolonged into the second year one should observe positive and direct proportional effects of unemployment on debt; that is, individuals are more likely to increase debt the longer their unemployment persists. This directly impacts the debt to income ratio positively.
+
+OUT OF SAMPLE TESTS
+
+[INSERT OF SAMPLE TEST TABLE]
+
+Within Sample SER > RM5FE (0.903436 > 0.8664604).
+
+DYNAMIC CAUSAL EFFECTS
+
+[INSERT TABLE]
+
+The assumption is given that the distributive lag model exhibits strict exogeneity as lags for Y-t do not X-t demonstrate reciprocal effects on one another. Strict exogeneity assumes that values of X are strictly unimpacted by the variable of Y but not conversely. From economic theory it is reasonable to assume that Debt to Income Ratio is positively influenced by Unemployment Rate: as individuals become unemployed and remain in longer periods of unemployment, they are more likely to borrow to survive. Borrowing increases debt which relative to any current earnings increases the ratio of debt to income. This can also be observed at the aggregate and macro-economic level where further repercussions of this type of behaviour can be observed and analysed.
+An example of exogeneity is the reciprocal relationship shared between consumption and waste; as consumption increases so does waste; conversely one can forecast the next period of consumption rate based upon the rate of waste generation.
+
+
+RESIDUAL AUTOCORRELATIONS
+
+[INSERT IMAGE]
+
+Autocorrelations function plot demonstrate significant autocorrelation among residuals particularly within the first lag period. While these persist through to lags four, these are significantly reduced.
+
+MULTEPRIOD FORECASTING
+
+What is the forecasted value in 10 periods of time?
+
+The forecasted value in 10 periods of time estimates a growth in the debt to income ratio by 100% meaning that it can be assumed that the debt to income ratio within the UK is expected to demonstrate upward growth over the next ten years for the period specified.
+
+TESTING FOR COINTEGRATION
+
+Cointegration tests enables observance of whether two time series may influence one another due to being correlated or that they are related stochastically by having the same trend or they appear to have receive the same shocks. Regarding the time series of UK Debt to Income Ratio and UK Unemployment Rate, an initial observation of both time series appear to demonstrate that both trend opposite to one another and do not seem to be stochastically related.
+
+[INSERT TABLE1]
+
+[INSERT TABLE2]
+
+[INSERT DIAGRAM]
+
+Diagram 1 and Diagram 2 further and intuitively clarifies this view that both time series appear to be unrelated. However both seem to demonstrate unit root and may exhibit stationarity for some theta when X is subtracted from Y which may demonstrate cointegration between the time series. This can be intuitively observed further in Diagram 3.
+
+[INSERT DIAGRAM]
+
+DTI values are plotted in blue, UR is plotted in orange and (DTI-UR) is in purple. The difference between DTI and UR however has not absented the stochastic trend in Y(DTI) which indicates that X(UR) has a different stochastic trend and possibly not cointegrated.
+Testing for theta is known, DF-GLS critical values < test statistic: -2.58 < -0.0646; accept the alternative hypothesis that there is stationarity. Testing our error correction term when estimating for theta (when theta is not known) reveals that critical values < test statistic: -2.58 < 0.1915; accept the alternative that the error correction term exhibits stationarity.
+
+VOLATILITY CLUSTERING
+
+[INSERT DIAGRAM]
+
+[INSERT TABLE]
+
+Beta 1, ma1, and ar 1coefficients are significant. Omega and alpha 1 coefficients are not significant.
+From Diagram 4 it can be noted that volatility increased significantly over the period of 2000-2010 and showed decline into 2019.
+
+**CONCLUSION**
+
+It was hypothesized that debt to income ratio shares a non-reciprocal relationship with the unemployment rate meaning as unemployment rate positively influences debt as absence of income encourages borrowing raising debt relative to income. This relationship is expected to exhibit strict exogeneity. The model seems to exhibit a rough linear time trend; beta 1 for AR1 model is 0.9923106 approximating to 1, indicating presence of unit root. Correcting for this by taking first difference yielded a beta hat 1 <1, at -0.0076894 significant at the 0.0001 value. A lag length of three was adopted for the first differenced model with an F statistic in the Granger Test for X variables at 4.471 indicating joint significance at the 5% mark for X:t-1 and X:t-2. This tended to be consistent with economic assumption that unemployment rates positively influence debt to income ratio and indicating increased likelihood of having greater debt relative to income earned.
+
+Our model did exhibit strict exogeneity as lags for Y-t do not X-t demonstrate reciprocal effects on one another. Strict exogeneity assumes that values of X are strictly unimpacted by the variable of Y but not conversely. The forecasted value in 10 periods of time estimates a growth in the debt to income ratio by 100% meaning that it can be assumed that the debt to income ratio within the UK is expected to demonstrate upward growth over the next ten years for the period specified.
+Testing for known theta, DF-GLS critical values < test statistic: -2.58 < -0.0646 led to the retention of the alternative hypothesis that there is stationarity. Testing our error correction term when estimating for theta (when theta is not known) reveals that critical values < test statistic: -2.58 < 0.1915; accept the alternative that the error correction term exhibits stationarity.
+
+**References**
+
+A guide to labour market statistics, Office for National Statistics, 2020.
+Murphy, C.B., (2022). Debt to income ratio (DTI), Investopedia, https://www.investopedia.com/terms/d/dti.asp
+
+
 
 **Technology Used:** R Programming
