@@ -575,7 +575,9 @@ The debt to income (DTI) ratio is the percentage ratio of one’s monthly debt p
 Estimation of Autoregression Model Testing for Violations I. Does economic theory suggest that your time series should exhibit a roughly linear time trend? 
 
 • From the graph above the model seems to exhibit a rough linear time trend. What this means is that the values of the distribution do not seem to remain the same in the past of future suggesting that this trend is not stationary. We can expect our variance to keep increasing over time. 
+
 • However if in our AR(1) model, |beta 1| < 1, our process may be considered stationary. It is also assumed that if the beta 1 = 1, this suggests drift and the process is non-stationary.
+
 • Therefore, 
 i.	H_0: beta 1 = 1 
 ii.	ii. H_1: beta 1 < 1
