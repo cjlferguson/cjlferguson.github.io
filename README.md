@@ -576,7 +576,11 @@ Estimation of Autoregression Model Testing for Violations I. Does economic theor
 
 • From the graph above the model seems to exhibit a rough linear time trend. What this means is that the values of the distribution do not seem to remain the same in the past of future suggesting that this trend is not stationary. We can expect our variance to keep increasing over time. 
 
-• However if in our AR(1) model, |beta 1| < 1, our process may be considered stationary. It is also assumed that if the beta 1 = 1, this suggests drift and the process is non-stationary.
+• However if in our AR(1) model, 
+
+|beta 1| < 1, 
+
+our process may be considered stationary. It is also assumed that if the beta 1 = 1, this suggests drift and the process is non-stationary.
 
 • Therefore, 
 i.	H_0: beta 1 = 1 
