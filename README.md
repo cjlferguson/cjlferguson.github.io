@@ -607,6 +607,7 @@ AR-1 ANALYSIS
 An AR(1) regression on the variable outcome was performed yielding levels of significance at the 0.0001% significance level for lag 1 at 2x10^-16. The beta 1 coefficient although beta 1<1, beta 1 coefficient is 0.9923106 which approximates to 1. This suggests the process has unit roots, so that drift is present and that our trend is non stationary. One of the challenges of unit root processes is that the distribution of Y is changing due to an increasing variance and also a mean is never changing systematically. Using the Dickey Fuller Test to confirm for unit root process, the test statistic -1.7132 and t-critical values -3.46, the null hypothesis is rejected that the time series data is stationary and is corrected first differencing. The new values can be observed below in table 3.
 
 ADL-11 AND ADL-22 ANALYSIS
+![ADL_11](ADL_11.png)
 
 [INSERT ADL-11 AND ADL-22 TABLES]
 
