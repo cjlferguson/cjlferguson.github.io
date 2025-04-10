@@ -607,9 +607,14 @@ AR-1 ANALYSIS
 An AR(1) regression on the variable outcome was performed yielding levels of significance at the 0.0001% significance level for lag 1 at 2x10^-16. The beta 1 coefficient although beta 1<1, beta 1 coefficient is 0.9923106 which approximates to 1. This suggests the process has unit roots, so that drift is present and that our trend is non stationary. One of the challenges of unit root processes is that the distribution of Y is changing due to an increasing variance and also a mean is never changing systematically. Using the Dickey Fuller Test to confirm for unit root process, the test statistic -1.7132 and t-critical values -3.46, the null hypothesis is rejected that the time series data is stationary and is corrected first differencing. The new values can be observed below in table 3.
 
 ADL-11 AND ADL-22 ANALYSIS
+
 ![ADL_11](ADL_11.png)
 
-[INSERT ADL-11 AND ADL-22 TABLES]
+ADL-11 TABLE 
+
+![ADL_22](ADL_22.png)
+
+ADL-22 TABLE
 
 The F statistic in the Granger Test for X variables is 4.471 and are jointly significant at the 5% mark for X:t-1 and X:t-2, and are therefore jointly significant predictors of variable Y-t. What is observed is that higher lag values of Y-t, that is higher past values of debt to income ratio positively influence debt to income ratio at time t or the higher past values of debt to income ratio indicates increased likelihood of having greater debt relative to income earned. In short, more debt produces more debt relative to income earned for each period. Also, our X values indicate that for past values of increasing unemployment rate positively impacts debt to income ratio or as unemployment increases the greater the likelihood of having debt increase relative to income earned. For lag periods of X_t-1 indicates that for 1 unit increase in UK Unemployment Rate there is an expected increase in Debt to Income Ratio by -0.412% and for lags X:t-2 this indicates that for a 1 unit increase in UK unemployment removed twice there is an expected increase in UK Debt to Income Ratio by 0.286%. What this means is that immediate periods of unemployment such as the first year does not seem to readily impact debt to income ratio. However as debt is prolonged into the second year one should observe positive and direct proportional effects of unemployment on debt; that is, individuals are more likely to increase debt the longer their unemployment persists. This directly impacts the debt to income ratio positively.
 
