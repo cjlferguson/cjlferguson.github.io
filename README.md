@@ -663,7 +663,7 @@ Testing for theta is known, DF-GLS critical values < test statistic: -2.58 < -0.
 
 VOLATILITY CLUSTERING
 
-[INSERT DIAGRAM]
+![ARMA11_GARCH11_Prediction](ARMA11_GARCH11_Prediction.png)
 
 [INSERT TABLE]
 
